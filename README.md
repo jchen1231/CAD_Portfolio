@@ -1,5 +1,9 @@
 # Jason Chen's CAD Portfolio
 
+These CAD files are provided for demonstration and academic use only.
+
+Please do not redistribute or use commercially without permission.
+
 ## Project 1 - Portable Testing Chamber
 
 - `Project1_SolidWorks_Portable_Testing_Chamber/`
