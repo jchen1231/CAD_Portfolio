@@ -31,7 +31,7 @@ There is a need for accessible laparoscope and camera characterization modalitie
 - Low-cost compared to commercial options
 - Easy to assemble, disassemble, and replace
   - Requires minimal fabrication tools
-  - Avoids permanent adhesives or fixtures (e.g., superglue)
+  - Minimal use of permanent adhesives or fixtures (e.g., superglue)
 - Restricted to a regular-sized 3D-printer with about a 220mm × 220mm footprint
 
 ## Tools Used
@@ -40,6 +40,7 @@ There is a need for accessible laparoscope and camera characterization modalitie
 - Ender 3 Pro PLA 3D-printer
 - Allen keys
 - Band saw
+- Luxmeter
 
 ## Project Highlights
 

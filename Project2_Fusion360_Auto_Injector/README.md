@@ -19,7 +19,7 @@ Time Frame: Fall 2023 – Spring 2024
 
 Dr. Mueller and her lab are pioneering a low-cost, alternative cervical cancer ablation therapy for resource-limited settings. The therapeutic consists mainly of a hydrogel material, ethyl cellulose, and ethanol, with the former enabling sufficient localization of ethanol at the tumor site, causing cancer cell death and tissue necrosis. The combination of ethyl cellulose and ethanol is referred to as ECE. Through extensive in vivo testing in pigs, they found that a single injection of ECE is often insufficient for larger tumor masses. They proposed two potential solutions to this challenge: to combine ECE with another therapeutic, such as a photodynamic therapy agent, or to inject multiple deposits.
 
-This project highlights efforts to implement the second solution through developing an easy-to-use, low-cost, triple-needle injector device that delivers three ECE deposits in close proximity to cause a larger area of tissue necrosis in one injection process. The injector device, nicknamed the Auto-injector, is capable of delivering three simultaneous ECE deposits and then retracting its needles after injection, all driven by an air canister pressurized using a bike pump.
+This project highlights efforts to implement the second solution through developing an easy-to-use, low-cost, triple-needle injector device that delivers three ECE deposits in close proximity to cause a larger area of tissue necrosis in one injection. The injector device, nicknamed the Auto-injector, is capable of delivering three simultaneous ECE deposits and then retracting its needles after injection, all driven by an air canister pressurized using a bike pump.
 
 ## Goals
 
@@ -39,6 +39,7 @@ This project highlights efforts to implement the second solution through develop
 - Lathe
 - Band saw
 - Belt sander
+- Drill press
 
 ## Project Highlights
 
