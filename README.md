@@ -25,5 +25,5 @@ Please reach out to me at <jasonchen4298@gmail.com> with any questions and conce
 
 I am still working on a code portfolio, but for the meantime, here are some of my projects here on GitHub:
 
-- ROS2 and Gazebo (Python): simulation: <https://github.com/jchen1231/enpm605_final>
+- ROS2 and Gazebo simulation: <https://github.com/jchen1231/enpm605_final>
 - Data visualization for one of my projects (Python): <https://github.com/jchen1231/bobblestat>
