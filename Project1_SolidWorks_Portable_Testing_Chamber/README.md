@@ -31,8 +31,8 @@ There is a need for accessible laparoscope and camera characterization modalitie
 - Low-cost compared to commercial options
 - Easy to assemble, disassemble, and replace
   - Requires minimal fabrication tools
-  - Minimal use of permanent adhesives or fixtures (e.g., superglue)
-- Restricted to a regular-sized 3D-printer with about a 220mm × 220mm footprint
+  - Uses minimal permanent adhesives or fixtures (e.g., superglue)
+- Designed to fit within a standard 220 × 220 × 250 mm 3D printer build volume
 
 ## Tools Used
 
