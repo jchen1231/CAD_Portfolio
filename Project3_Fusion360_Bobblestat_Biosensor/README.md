@@ -38,8 +38,8 @@ Concurrently, the increasing accessibility of computer-aided design (CAD), print
 
 ## Tools Used
 
-- CAD Software: Fusion 360
-- EDA Software: Fusion 360 Electronics Workspace
+- Fusion 360
+- Fusion 360 Electronics Workspace
 - Formlabs Form 3 SLA 3D-printer
 - Prusa MK3S PLA 3D-printer
 - Soldering station

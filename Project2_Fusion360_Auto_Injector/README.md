@@ -37,9 +37,6 @@ This project highlights efforts to implement the second solution through develop
 - Heat staking machine
 - Tap and die set
 - Lathe
-- Band saw
-- Belt sander
-- Drill press
 
 ## Project Highlights
 

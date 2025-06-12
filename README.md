@@ -1,12 +1,13 @@
 # Jason Chen's CAD Portfolio
 
-**NOTE: please view `CAD_Portfolio_Highlights.pptx` or `CAD_Portfolio_Highlights.pdf` for a quick summary.**
+**NOTE: you can view `CAD_Portfolio_Highlights_v2.pdf` for a quick summary, but the GIFs do not work.**
 
 Please reach out to me at <jasonchen4298@gmail.com> with any questions and concerns. I would be happy to chat! All content is for my portfolio use only.
 
 ## Basic File Structure
 
-- `CAD_Portfolio_Highlights.pptx` or `CAD_Portfolio_Highlights.pdf`contains a good overview of all three projects.
+- `CAD_Portfolio_Highlights_v2.pptx` or `CAD_Portfolio_Highlights_v2.mp4` contains a good overview of all three projects
+- `CAD_Portfolio_Highlights_v2.pdf` also works, but does not have functional GIFs
 - Each project folder contains at least the following:
   - A `README.md` file outlining the project
   - A more detailed PowerPoint overview of the computer-aided design (CAD) components

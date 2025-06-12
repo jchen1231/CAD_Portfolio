@@ -38,9 +38,6 @@ There is a need for accessible laparoscope and camera characterization modalitie
 
 - CAD Software: SolidWorks
 - Ender 3 Pro PLA 3D-printer
-- Allen keys
-- Band saw
-- Luxmeter
 
 ## Project Highlights
 
