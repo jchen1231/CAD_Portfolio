@@ -1,17 +1,18 @@
 # Jason Chen's CAD Portfolio
 
-**NOTE: For a quick overview, check out the presentation at <https://jchen1231.github.io/>, or download either `CAD_Portfolio_Highlights_v2.pptx` or `CAD_Portfolio_Highlights_v2.mp4`; they are all the same.**
+**TL;DR: For a quick overview of all projects, check out the presentation at <https://jchen1231.github.io/>.**
 
 Please reach out to me at <jasonchen4298@gmail.com> with any questions and concerns. I would be happy to chat! All content is for my portfolio use only.
 
-## Basic File Structure
+## File Structure
 
+- `CAD_Portfolio_Highlights_v2.pptx` and `CAD_Portfolio_Highlights_v2.mp4` contain the same presentations as the one found at <https://jchen1231.github.io/>.
 - `Legacy_Presentations/`: folder containing older presentations and drafts.
 - Each project folder contains at least the following:
-  - A `README.md` file outlining the respective project
+  - A `README.md` file outlining the respective projects
   - A more detailed overview presentation of the computer-aided design (CAD) components
   - A `renders_drawings_images/`: folder containing CAD renderings, exploded drawings, prototype images, and other visuals
-  - A `source_files/` folder containing the CAD files
+  - A `source_files/` folder containing all relevant CAD files
 
 ## Coding Portfolio
 
