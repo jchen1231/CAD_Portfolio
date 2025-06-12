@@ -6,7 +6,6 @@ Please reach out to me at <jasonchen4298@gmail.com> with any questions and conce
 
 ## File Structure
 
-- `CAD_Portfolio_Highlights_v2.pptx` and `CAD_Portfolio_Highlights_v2.mp4` contain the same presentations as the one found at <https://jchen1231.github.io/>.
 - `Legacy_Presentations/`: folder containing older presentations and drafts.
 - Each project folder contains at least the following:
   - A `README.md` file outlining the respective projects
